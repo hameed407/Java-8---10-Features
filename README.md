@@ -1,12 +1,4 @@
 # Java-8---10-Features
-
-Perfect — let's now create **a GitHub-friendly Java 8 Reference for Spring Boot** that includes:
-
-* The **feature name**
-* A **real enterprise use case / scenario**
-* **Proper explanation**
-* **Example code**
-
 ---
 
 ## 📘 Java 8 Features in Spring Boot Microservices: Real-World Scenarios & Code
